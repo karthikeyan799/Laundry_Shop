@@ -1,0 +1,49 @@
+.banner{
+    /* width: 1544px; */
+    /* width: 1450px; */
+    width: 1544px;
+    height: 643px;
+    position: relative; 
+    
+
+}
+.ban{
+    padding: 0px;
+    margin-left: -12px;
+    background-color: rgb(87, 115, 139); 
+}
+.homep{
+    position: absolute;
+    width: 400px;
+    border: 3px solid;
+    padding: 10px;
+    border-radius: 20px;
+    top: 15%;
+    right: 15%;
+    text-align: justify;
+    transform: translate(50%, 50%);
+}
+.homwRow{
+    padding: 20px;
+    height: 500px;   
+    display: flex;
+    /* width: 1500px; */
+    background-color: antiquewhite;
+    justify-content: space-around;
+    align-items: center;
+}
+.homeRow{
+    /* width: 300px; */
+    
+    border: 3px solid;
+    height: 400px;
+    background-color: aquamarine;
+}
+.footer{
+    background-color: antiquewhite;
+    height: 200px;
+}
+.footer p{
+    text-align: center;
+    
+}
